@@ -1,0 +1,13 @@
+$body-color: #43616f;
+$body-bg: #fff;
+$body-size-base: 0.925rem;
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+@import "~bootstrap/scss/bootstrap";
